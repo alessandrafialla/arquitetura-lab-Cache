@@ -3,6 +3,6 @@ Este Repositório contém os códigos utilizados nas simulações propostas pelo
 O roteiro completo das simulações está disponível [aqui](https://cs.brown.edu/courses/csci1310/2020/assign/labs/lab4.html).
 
 **Autores:**
-Alessandra Fialla
-Maite Aska Shinkai Kamei
-Waldomiro Ottmann
+- Alessandra Fialla
+- Maite Aska Shinkai Kamei
+- Waldomiro Ottmann
